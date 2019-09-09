@@ -1,0 +1,1 @@
+./compile -o a.out main.cpp random.cpp next_fit.cpp first_fit.cpp best_fit.cpp

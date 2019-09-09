@@ -1,0 +1,1 @@
+./compile -o a.out main.cpp random.cpp first_fit_optimized.cpp best_fit_optimized.cpp BF_AVL_Tree.cpp FF_AVL_Tree.cpp
